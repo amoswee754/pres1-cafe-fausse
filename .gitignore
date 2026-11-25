@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+cafefausse-backend/.venv/
+__pycache__/
+*.pyc
+cafefausse-frontend/node_modules/
+cafefausse-frontend/dist/
+.vercel/
+.env*
+!.env.example
